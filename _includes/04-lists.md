@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+My Favorite Things :heart:
+* Video games
+* Weight lifting
+* New technologies
+* Programming
